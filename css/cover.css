@@ -801,7 +801,17 @@ span.numscroller {
 
 /* Portfolio */
 #portfolio {
-    background: #eee;
+    background: #fff;
+}
+
+#portfolio_page p {
+    text-align: left;
+}
+
+#portfolio_page a {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 800;
 }
 
 .portfolio-item .portfolio-link {
