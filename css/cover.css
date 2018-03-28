@@ -143,7 +143,7 @@ a.border-button-black, .border-button-black {
 }
 .site-wrapper-2 {
 /*   background: url(../rotate/rotate.php);*/
-    background: url(../img/yay.jpg);
+    background: url(../img/rg.jpg);
 }
 .site-wrapper-3 {
     background: url(../img/cover5.jpg);
@@ -1074,7 +1074,7 @@ margin-top: 20px;
     z-index: 999;
     overflow: hidden;
     /*background: #1b1f23 url(../img/../img/cover4.jpg) no-repeat 50% 50%;*/
-    background: url(../img/yay.jpg);
+    background: url(../img/rg.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
